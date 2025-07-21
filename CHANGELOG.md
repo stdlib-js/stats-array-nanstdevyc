@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`fd741a4`](https://github.com/stdlib-js/stdlib/commit/fd741a47f8c8efb5db781409587903f99470a05e) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`dc7133c`](https://github.com/stdlib-js/stdlib/commit/dc7133ce521ff84759cb75e0c1955cfe38de220f) - **feat:** add `stats/array/nanstdevyc` [(#7658)](https://github.com/stdlib-js/stdlib/pull/7658) _(by Gururaj Gurram)_
 
 </details>
